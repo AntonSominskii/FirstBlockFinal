@@ -1,0 +1,15 @@
+C:\Users\kkkk\Desktop\VC\VCseminar1\FirstBlockFinal\obj\Debug\net6.0\FirstBlockFinal.csproj.AssemblyReference.cache
+C:\Users\kkkk\Desktop\VC\VCseminar1\FirstBlockFinal\obj\Debug\net6.0\FirstBlockFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkkk\Desktop\VC\VCseminar1\FirstBlockFinal\obj\Debug\net6.0\FirstBlockFinal.AssemblyInfoInputs.cache
+C:\Users\kkkk\Desktop\VC\VCseminar1\FirstBlockFinal\obj\Debug\net6.0\FirstBlockFinal.AssemblyInfo.cs
+C:\Users\kkkk\Desktop\VC\VCseminar1\FirstBlockFinal\obj\Debug\net6.0\FirstBlockFinal.csproj.CoreCompileInputs.cache
+C:\Users\kkkk\Desktop\VC\VCseminar1\FirstBlockFinal\bin\Debug\net6.0\FirstBlockFinal.exe
+C:\Users\kkkk\Desktop\VC\VCseminar1\FirstBlockFinal\bin\Debug\net6.0\FirstBlockFinal.deps.json
+C:\Users\kkkk\Desktop\VC\VCseminar1\FirstBlockFinal\bin\Debug\net6.0\FirstBlockFinal.runtimeconfig.json
+C:\Users\kkkk\Desktop\VC\VCseminar1\FirstBlockFinal\bin\Debug\net6.0\FirstBlockFinal.dll
+C:\Users\kkkk\Desktop\VC\VCseminar1\FirstBlockFinal\bin\Debug\net6.0\FirstBlockFinal.pdb
+C:\Users\kkkk\Desktop\VC\VCseminar1\FirstBlockFinal\obj\Debug\net6.0\FirstBlockFinal.dll
+C:\Users\kkkk\Desktop\VC\VCseminar1\FirstBlockFinal\obj\Debug\net6.0\refint\FirstBlockFinal.dll
+C:\Users\kkkk\Desktop\VC\VCseminar1\FirstBlockFinal\obj\Debug\net6.0\FirstBlockFinal.pdb
+C:\Users\kkkk\Desktop\VC\VCseminar1\FirstBlockFinal\obj\Debug\net6.0\FirstBlockFinal.genruntimeconfig.cache
+C:\Users\kkkk\Desktop\VC\VCseminar1\FirstBlockFinal\obj\Debug\net6.0\ref\FirstBlockFinal.dll
